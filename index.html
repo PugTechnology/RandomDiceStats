@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Random Dice Stats</title>
+    
+    <!-- Include the CSS file -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>My Random Dice Stats</h1>
+      <div class="row">
+        <div class="col-md-4">
+          <p>Wins: <span id="wins">0</span></p>
+          <button id="add-wins-btn" class="btn btn-primary">+</button>
+        </div>
+        <div class="col-md-4">
+          <p>Losses: <span id="losses">0</span></p>
+          <button id="add-losses-btn" class="btn btn-danger">+</button>
+        </div>
+        <div class="col-md-4">
+          <p>Win Percentage: <span id="win-percentage">0%</span></p>
+        </div>
+      </div>
+      <button id="update-btn" class="btn btn-info">Update Stats</button>
+    </div>
+    
+    <!-- Include the JavaScript file -->
+    <script src="app.js"></script>
+  </body>
+</html>
