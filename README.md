@@ -1,6 +1,8 @@
 # Random Dice Stats Tracker
 This is a simple web app that allows you to track your wins, losses, and win percentage in the game "Random Dice". The app uses HTML, CSS, JavaScript, and Bootstrap to create a user interface, and stores the stats data in a local JSON file.
 
+![image](https://user-images.githubusercontent.com/38011560/222289218-1a82c333-dfb7-4c1f-8fb4-b06dae0e9cc6.png)
+
 # Getting Started
 To use the app, you can download or clone the repository to your local machine, and open the index.html file in your web browser. The app should load and display your current wins, losses, and win percentage, if available.
 
