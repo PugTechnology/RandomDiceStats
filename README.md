@@ -11,10 +11,10 @@ To update your stats, simply click on the plus button next to the "Wins" or "Los
 If you want to modify the code, you can edit the HTML, CSS, and JavaScript files to customize the user interface or add new features. You can also use a different storage mechanism to store the stats data, such as a database or a cloud storage service.
 
 # Built With
-Bootstrap - A popular front-end framework for building responsive web applications
-JavaScript - A high-level programming language for building web applications
-JSON - A lightweight data interchange format used for storing and transmitting data
-Node.js - A JavaScript runtime environment for building server-side applications
+- Bootstrap - A popular front-end framework for building responsive web applications
+- JavaScript - A high-level programming language for building web applications
+- JSON - A lightweight data interchange format used for storing and transmitting data
+- Node.js - A JavaScript runtime environment for building server-side applications
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
